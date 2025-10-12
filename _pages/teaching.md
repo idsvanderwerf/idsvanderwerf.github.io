@@ -13,5 +13,5 @@ Duties involve giving lectures, assisting students with the course assignments a
 * Fall 2023: Applied Convex Optimization ([EE4530](https://sps.ewi.tudelft.nl/Education/coursedetail.php?mi=58))
 
 ## Supervised students:
-* C.H.N. (Carl-Gabriel) Lindberg (BSc project)
-* O. (Omkar) Patil (MSc project)
+* C.H.N. (Carl-Gabriel) Lindberg (BSc project at University of Twente)
+* O. (Omkar) Patil (MSc project at TU Delft)
