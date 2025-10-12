@@ -24,3 +24,9 @@ redirect_from:
 * **I. van der Werf**, R. C. Hendriks and R. Heusdens, "[Channel Parameter Estimation Using a Wideband LFM Preamble: Comparison of the Fractional Fourier Transform and Matched Filtering](https://ieeexplore.ieee.org/document/10289817)," European Signal Processing Conference (EUSIPCO), Helsinki, Finland, 2023.
 * **I. van der Werf**, P. Martínez-Nuevo, M. Møller and R. C. Hendriks, "[Towards Gridless Sound Field Reconstruction](https://ieeexplore.ieee.org/document/9909718)," European Signal Processing Conference (EUSIPCO), Belgrade, Serbia, 2022.
 
+## Achievements
+* Finalist during the 3-minute thesis (3MT) contest at EUSIPCO 2023: **I. van der Werf**, R. Heusdens, R. C. Hendriks, "[Doppler-tolerant underwater communications](https://www.sciencedirect.com/science/article/pii/S2772569324000203)," *Science Talks*, Volume 9, 2024.
+* Best Presentation Award at the *2022 IEEE-SPS / EURASIP Summer School "Data and Graph Driven Learning for Communications and Signal Processing"*, Banja Luka, Bosnia-Herzegovina.
+ 
+
+
