@@ -10,7 +10,7 @@
 main:
   - title: "About myself"
     url: /
-  - title: "Research output"
+  - title: "Research"
     url: /researchoutput/
 #  - title: "Publications"
 #    url: /publications/
