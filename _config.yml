@@ -23,7 +23,7 @@ repository               : "idsvanderwerf/idsvanderwerf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Ids van der Werf"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate @TU Delft"
