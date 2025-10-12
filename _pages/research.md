@@ -10,9 +10,17 @@ redirect_from:
 {% include base_path %}
 
 ## Journal articles
-1. **Ids Van der Werf**, R. Heusdens, R. C. Hendriks and G. Leus, [Optimal pilot design for OTFS in linear time-varying channels](https://www.sciencedirect.com/science/article/pii/S0165168425003378)," *Elsevier Signal Processing Journal*, Volume 239, February 2026.
-2. **Ids van der Werf**, H. Dol, K. Blom, R. Heusdens, R. C. Hendriks and G. Leus, "[On the equivalence of OSDM and OTFS](https://www.sciencedirect.com/science/article/pii/S0165168423003286)," *Elsevier Signal Processing Journal*, Volume 214, January 2024.
-
+* **I. van der Werf**, R. Heusdens, R. C. Hendriks and G. Leus, "[Optimal pilot design for OTFS in linear time-varying channels](https://www.sciencedirect.com/science/article/pii/S0165168425003378)," *Elsevier Signal Processing Journal*, Volume 239, February 2026.
+* **I. van der Werf**, H. Dol, K. Blom, R. Heusdens, R. C. Hendriks and G. Leus, "[On the equivalence of OSDM and OTFS](https://www.sciencedirect.com/science/article/pii/S0165168423003286)," *Elsevier Signal Processing Journal*, Volume 214, January 2024.
 
 ## Conference proceedings
+* **I. van der Werf** and G. Leus, "Jointly Optimal Array Geometries and Waveforms in Active Sensing," *Asilomar Conference*, Pacific Grove, CA, 2025.
+* **I. van der Werf**, G. Leus and R. Rajamäki, "[Jointly Optimal Array Geometries and Waveforms in Active Sensing: New Insights Into Array Design via the Cramér-Rao Bound](https://ieeexplore.ieee.org/abstract/document/10890202)," *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Hyderabad, India, 2025.
+* **I. van Der Werf**, S.P. Chepuri, G. Leus, "[Sparse MIMO Array Design Using Uplink-Downlink Duality and Hole-Free Zone Co-Array Sensing](https://ieeexplore.ieee.org/document/10942995)," *Asilomar Conference*, Pacific Grove, CA, 2024.
+* **I. van der Werf**, K. Pelekanakis, R. C. Hendriks, R. Heusdens and G. Leus, "[Optimized Pilot Design for OTFS Modulation in Underwater Acoustic Communications](https://ieeexplore.ieee.org/document/10847980)," *Underwater Communications and Networking Conference (UComms)*, Sestri Levante, Italy, 2024.
+* **I. van der Werf**, C. A. Kokke, R. Heusdens, R. C. Hendriks, G. Leus and M. Coutino, "[Transmit and Receive Sensor Selection Using the Multiplicity in the Virtual Array](https://ieeexplore.ieee.org/document/10714931)," *European Signal Processing Conference (EUSIPCO)*, Lyon, France, 2024.
+* **I. van der Werf**, G. Leus and S. P. Chepuri, "[Receiver Antenna Allocation for Joint Sensing and Communications](https://ieeexplore.ieee.org/document/10636382)," *Sensor Array and Multichannel Signal Processing Workshop (SAM)*, Corvallis, OR, 2024.
+* **I. van der Werf**, R. C. Hendriks, R. Heusdens, G. Leus, "[Transmit Waveform Design Based on the Cramér-Rao Lower Bound](https://ieeexplore.ieee.org/document/10403457)," *International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)*, Herradura, Costa Rica, 2023.
+* **I. van der Werf**, R. C. Hendriks and R. Heusdens, "[Channel Parameter Estimation Using a Wideband LFM Preamble: Comparison of the Fractional Fourier Transform and Matched Filtering](https://ieeexplore.ieee.org/document/10289817)," European Signal Processing Conference (EUSIPCO), Helsinki, Finland, 2023.
+* **I. van der Werf**, P. Martínez-Nuevo, M. Møller and R. C. Hendriks, "[Towards Gridless Sound Field Reconstruction](https://ieeexplore.ieee.org/document/9909718)," European Signal Processing Conference (EUSIPCO), Belgrade, Serbia, 2022.
 
