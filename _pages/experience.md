@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## Service
-* Spring 2025 - now: IEEE SPS Ad Hoc committee member
+* Spring 2025: IEEE SPS Ad Hoc committee member
 * Fall 2022 - Spring 2025: Faculty PhD council member
 * Reviewer for: IEEE TSP, TWC, TC, SPL, WCL, JOE, ICASSP, CAMSAP, SPAWC; EURASIP Journal on Advances in Signal Processing; Elsevier Signal Processing Journal
   
