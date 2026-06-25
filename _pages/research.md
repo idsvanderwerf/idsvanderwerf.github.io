@@ -10,11 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ## Journal articles
+* **I. van der Werf**, R. Rajamäki, "[CRB-Optimal Arrays and Waveforms in Active Sensing: Role of Redundancy and Spatial Covariance of Array Geometry](https://ieeexplore.ieee.org/abstract/document/11543218)," in *IEEE Transactions on Signal Processing*, (Early Access), June 2026. 
 * **I. van der Werf**, R. Heusdens, R. C. Hendriks and G. Leus, "[Optimal pilot design for OTFS in linear time-varying channels](https://www.sciencedirect.com/science/article/pii/S0165168425003378)," *Elsevier Signal Processing Journal*, Volume 239, February 2026.
 * **I. van der Werf**, H. Dol, K. Blom, R. Heusdens, R. C. Hendriks and G. Leus, "[On the equivalence of OSDM and OTFS](https://www.sciencedirect.com/science/article/pii/S0165168423003286)," *Elsevier Signal Processing Journal*, Volume 214, January 2024.
 
 ## Conference proceedings
-* **I. van der Werf** and G. Leus, "Jointly Optimal Array Geometries and Waveforms in Active Sensing," *Asilomar Conference*, Pacific Grove, CA, 2025.
+* **I. van der Werf** and G. Leus, "[On Jointly CRB-optimal Arrays and Waveforms for Multi-Target Active Sensing](https://ieeexplore.ieee.org/abstract/document/11443763)," *Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, pp. 1724-1728, 2025.
 * **I. van der Werf**, G. Leus and R. Rajamäki, "[Jointly Optimal Array Geometries and Waveforms in Active Sensing: New Insights Into Array Design via the Cramér-Rao Bound](https://ieeexplore.ieee.org/abstract/document/10890202)," *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Hyderabad, India, 2025.
 * **I. van Der Werf**, S.P. Chepuri and G. Leus, "[Sparse MIMO Array Design Using Uplink-Downlink Duality and Hole-Free Zone Co-Array Sensing](https://ieeexplore.ieee.org/document/10942995)," *Asilomar Conference*, Pacific Grove, CA, 2024.
 * **I. van der Werf**, K. Pelekanakis, R. C. Hendriks, R. Heusdens and G. Leus, "[Optimized Pilot Design for OTFS Modulation in Underwater Acoustic Communications](https://ieeexplore.ieee.org/document/10847980)," *Underwater Communications and Networking Conference (UComms)*, Sestri Levante, Italy, 2024.
